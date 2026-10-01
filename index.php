@@ -6,5 +6,9 @@
 </head>
 <body>
 
+<?php
+echo "Selamat datang di TiketWar - war tiket konser paling gercep!";
+?>
+
 </body>
 </html>
